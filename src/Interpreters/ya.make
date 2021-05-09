@@ -71,6 +71,7 @@ SRCS(
     InterpreterAlterQuery.cpp
     InterpreterCheckQuery.cpp
     InterpreterCreateDataTypeQuery.cpp
+    InterpreterCreateFunctionQuery.cpp
     InterpreterCreateQuery.cpp
     InterpreterCreateQuotaQuery.cpp
     InterpreterCreateRoleQuery.cpp

@@ -16,6 +16,7 @@ SRCS(
     ASTColumnsTransformers.cpp
     ASTConstraintDeclaration.cpp
     ASTCreateDataTypeQuery.cpp
+    ASTCreateFunctionQuery.cpp
     ASTCreateQuery.cpp
     ASTCreateQuotaQuery.cpp
     ASTCreateRoleQuery.cpp
@@ -88,6 +89,7 @@ SRCS(
     ParserCase.cpp
     ParserCheckQuery.cpp
     ParserCreateDataTypeQuery.cpp
+    ParserCreateFunctionQuery.cpp
     ParserCreateQuery.cpp
     ParserCreateQuotaQuery.cpp
     ParserCreateRoleQuery.cpp
